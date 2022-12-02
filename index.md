@@ -2,122 +2,67 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+## DONG LUO \| [PENGBO BO](http://homepage.hit.edu.cn/bopengbo){:target="_blank"}
 
 
-### Definition lists can be used with HTML syntax.
+## [PDF](https://scholar.google.com/){:target="_blank"}
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
+## Abstract
 
-```
-The final element.
-```
+We introduce a method ...
+
+## Citing this work
+
+If you find this work useful in your research, please consider citing :
+
+>@inproceedings{groueix2018,
+>          title={{AtlasNet: A Papier-M\^ach\'e Approach to Learning 3D Surface Generation}},
+>          author={G},
+>          booktitle={Proceruedings IEEE Conf. on Computer Vision and Pattern Recognition (CVPR)},
+>          year={2018}
+>        }
+
+## Method
+
+   <img src="./figs/fig1.svg" width="100%" alt="Results" />
+
+<center>Framework of document image rectification.</center>
+
+## Results 
+We show the results of the experiments in the paper. To download the high resolution images in their original resolution, you can use the [Google Drive (98 MB)](https://drive.google.com/file/d/1vkWb6GYni8nhBKZAUTtMoHRtiz3lOMNv/view?usp=share_link){:target="_blank"}.
+
+<center>Comparison with the multi-view method.</center>
+<a href="./pages/Results_1.html" target="_blank">
+   <img src="./figs/low/1.svg" width="100%" alt="Results" />
+</a>
+
+<center>Comparison with the deep learning methods on Dataset I.</center>
+<a href="./pages/Results_2.html" target="_blank">
+   <img src="./figs/low/2.svg" width="100%" alt="Results" />
+</a>
+
+<center>Comparison with the deep learning methods on Dataset II.</center>
+<a href="./pages/Results_3.html" target="_blank">
+   <img src="./figs/low/3.svg" width="100%" alt="Results" />
+</a>
+
+<center>Comparison with the deep learning methods on Dataset III.</center>
+<a href="./pages/Results_4.html" target="_blank">
+   <img src="./figs/low/4.svg" width="100%" alt="Results" />
+</a>
+
+<center>Point cloud quality experiments.</center>
+<a href="./pages/Results_5.html" target="_blank">
+   <img src="./figs/low/5.svg" width="100%" alt="Results" />
+</a>
+
+<center>Feature line level experiments.</center>
+<a href="./pages/Results_6.html" target="_blank">
+   <img src="./figs/low/6.svg" width="100%" alt="Results" />
+</a>
+
+<center>Incomplete document boundaries experiments.</center>
+<a href="./pages/Results_7.html" target="_blank">
+   <img src="./figs/low/7.svg" width="100%" alt="Results" />
+</a>
