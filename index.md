@@ -31,7 +31,7 @@ If you find this work useful in your research, please consider citing :
 
 ## Results 
 
-The following shows the experimental results in our paper. You can click on the images below to open new links and view higher-resolution versions, or you can directly download the results: [Google Drive (98 MB)](https://drive.google.com/file/d/1vkWb6GYni8nhBKZAUTtMoHRtiz3lOMNv/view?usp=share_link){:target="_blank"}.
+The following shows the experimental results in our paper. You can click on the images below to open new links and view higher-resolution versions, or you can directly download them: [Google Drive (98 MB)](https://drive.google.com/file/d/1vkWb6GYni8nhBKZAUTtMoHRtiz3lOMNv/view?usp=share_link){:target="_blank"}.
 
 <center>Comparison with the multi-view method.</center>
 <a href="./pages/Results_1.html" target="_blank">
