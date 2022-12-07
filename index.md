@@ -12,7 +12,7 @@ layout: default
 
 We introduce a method ...
 
-## Citing this work
+## Citing this works
 
 If you find this work useful in your research, please consider citing :
 
@@ -23,11 +23,6 @@ If you find this work useful in your research, please consider citing :
 >          year={2018}
 >        }
 
-## Method
-
-   <img src="./figs/fig1.svg" width="100%" alt="Results" />
-
-<center>Framework of document image rectification.</center>
 
 ## Results 
 

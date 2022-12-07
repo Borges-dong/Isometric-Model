@@ -1,12 +1,27 @@
 <!DOCTYPE html>
 <html lang="en">
+    <script>
+        function resizeImage() {
+        var image = document.getElementById('img-wrapper'),
+            ranger = document.getElementById('mySlider');
+        image.style.width = (mySlider.value / 1)+'%';
+        }
+    </script>
 <head>
     <meta charset="UTF-8">
     <title>Some Title</title>
 </head>
 <body>
-
-<img src="../figs/high/Results-6.svg" width="100%" alt="Results" />
+    <div class="slidecontainer">
+        <input type="range" min="1" max="1000" step="10" value="100" class="slider" id="mySlider" onchange="resizeImage();">
+    </div>
+    <center>
+        <div id="img-wrapper">
+            <img src="../figs/high/Results-6.svg" alt="My Image!" id="myImage" style="width:100%;" />
+        </div>
+    </center>
+    
 
 </body>
+
 </html>
